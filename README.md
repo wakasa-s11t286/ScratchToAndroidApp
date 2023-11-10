@@ -1,0 +1,2 @@
+# ScratchToAndroidApp
+スクラッチからAndroidAppへcordovaを使ってビルドします
